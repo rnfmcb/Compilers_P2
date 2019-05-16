@@ -1,0 +1,5 @@
+INT X2 3
+INT X 1 
+Begin  
+   Output [ 1 ] :   
+End
